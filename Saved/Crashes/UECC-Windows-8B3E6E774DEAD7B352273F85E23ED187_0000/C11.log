@@ -1,0 +1,938 @@
+Not using cached read wrapper
+Stats thread started at 17.658345
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+Loading platform ini files took 0.82 seconds
+Mounting plugin Bridge
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin AISupport
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin CameraShakePreviewer
+Mounting plugin GameplayCameras
+Mounting plugin AnimationSharing
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin Paper2D
+Mounting plugin PerforceSourceControl
+Mounting plugin PlasticSourceControl
+Mounting plugin PluginUtils
+Mounting plugin AssetManagerEditor
+Mounting plugin PropertyAccessNode
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin SubversionSourceControl
+Mounting plugin CryptoKeys
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin CurveEditorTools
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin DataValidation
+Mounting plugin EditorDebugTools
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin GeometryMode
+Mounting plugin InterchangeEditor
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MaterialAnalyzer
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin DatasmithContent
+Mounting plugin SpeedTreeImporter
+Mounting plugin VariantManagerContent
+Mounting plugin LuminPlatformFeatures
+Mounting plugin EditorScriptingUtilities
+Mounting plugin MagicLeap
+Mounting plugin Niagara
+Mounting plugin MagicLeapMedia
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin AlembicImporter
+Mounting plugin MLSDK
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin AutomationUtils
+Mounting plugin BackChannel
+Mounting plugin ChaosCloth
+Mounting plugin ChaosEditor
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosSolverPlugin
+Mounting plugin CharacterAI
+Mounting plugin PluginBrowser
+Mounting plugin GeometryCache
+Mounting plugin ChaosNiagara
+Mounting plugin MeshModelingToolset
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin GeometryProcessing
+Mounting plugin PlanarCut
+Mounting plugin PlatformCrypto
+Mounting plugin ProxyLODPlugin
+Mounting plugin MotoSynth
+Mounting plugin SkeletalReduction
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin ActorSequence
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin MatineeToLevelSequence
+Mounting plugin WebMMedia
+Mounting plugin LevelSequenceEditor
+Mounting plugin OnlineSubsystem
+Mounting plugin WmfMedia
+Mounting plugin TemplateSequence
+Mounting plugin LauncherChunkInstaller
+Mounting plugin OnlineSubsystemNull
+Mounting plugin ScreenshotTools
+Mounting plugin ActorLayerUtilities
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin AndroidPermission
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AppleMoviePlayer
+Mounting plugin AppleImageUtils
+Mounting plugin ArchVisCharacter
+Mounting plugin AssetTags
+Mounting plugin AudioSynesthesia
+Mounting plugin AudioCapture
+Mounting plugin CableComponent
+Mounting plugin ChunkDownloader
+Mounting plugin CustomMeshComponent
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GoogleCloudMessaging
+Mounting plugin GooglePAD
+Mounting plugin Interchange
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OpenXR
+Mounting plugin ProceduralMeshComponent
+Mounting plugin PropertyAccessEditor
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin SoundFields
+Mounting plugin HairStrands
+Mounting plugin Synthesis
+Mounting plugin ResonanceAudio
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OculusVR
+Mounting plugin SteamVR
+MLSDK not found.  This likely means the MLSDK environment variable is not set.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+OculusPlugin initialized successfully
+Failed initializing OVRPlugin 1.51.0
+Optional extension XR_VARJO_quad_views is not available
+Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+Build: ++UE5+Release-5.0-EarlyAccess-CL-16682836
+Engine Version: 5.0.0-16682836+++UE5+Release-5.0-EarlyAccess
+Compatible Engine Version: 5.0.0-16433597+++UE5+Release-5.0-EarlyAccess
+Net CL: 16433597
+OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: NVIDIA GeForce RTX 2070 with Max-Q Design
+Compiled (64-bit): Aug 22 2021 18:10:42
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.0-EarlyAccess
+Command Line: 
+Base Directory: D:/UE_5.0EA/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+Number of dev versions registered: 32
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 7
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 44
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 26
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 10
+  UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+Setting CVar [[r.VSync:0]]
+Setting CVar [[r.RHICmdBypass:0]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Setting CVar [[r.Mobile.DisableVertexFog:1]]
+Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+Setting CVar [[r.MobileMSAA:4]]
+Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+Setting CVar [[r.Mobile.VirtualTextures:0]]
+Setting CVar [[r.DiscardUnusedQuality:0]]
+Setting CVar [[r.AllowOcclusionQueries:1]]
+Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+Setting CVar [[r.TextureStreaming:1]]
+Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+Setting CVar [[r.VirtualTextures:0]]
+Setting CVar [[r.VirtualTexturedLightmaps:0]]
+Setting CVar [[r.VT.TileSize:128]]
+Setting CVar [[r.VT.TileBorderSize:4]]
+Setting CVar [[r.vt.FeedbackFactor:16]]
+Setting CVar [[r.VT.EnableCompressZlib:1]]
+Setting CVar [[r.VT.EnableCompressCrunch:0]]
+Setting CVar [[r.ClearCoatNormal:0]]
+Setting CVar [[r.ReflectionCaptureResolution:128]]
+Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+Setting CVar [[r.ForwardShading:1]]
+Setting CVar [[r.VertexFoggingForOpaque:1]]
+Setting CVar [[r.AllowStaticLighting:1]]
+Setting CVar [[r.NormalMapsForStaticLighting:0]]
+Setting CVar [[r.GenerateMeshDistanceFields:1]]
+Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+Setting CVar [[r.SeparateTranslucency:0]]
+Setting CVar [[r.TranslucentSortPolicy:0]]
+Setting CVar [[r.CustomDepth:1]]
+Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+Setting CVar [[r.DefaultFeature.Bloom:0]]
+Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+Setting CVar [[r.DefaultFeature.LensFlare:0]]
+Setting CVar [[r.TemporalAA.Upsampling:0]]
+Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+Setting CVar [[r.DefaultFeature.LightUnits:1]]
+Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+Setting CVar [[r.StencilForLODDither:0]]
+Setting CVar [[r.EarlyZPass:3]]
+Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+Setting CVar [[r.DBuffer:1]]
+Setting CVar [[r.ClearSceneMethod:1]]
+Setting CVar [[r.BasePassOutputsVelocity:0]]
+Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+Setting CVar [[r.SelectiveBasePassOutputs:0]]
+Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+Setting CVar [[r.AllowGlobalClipPlane:0]]
+Setting CVar [[r.GBufferFormat:1]]
+Setting CVar [[r.MorphTarget.Mode:1]]
+Setting CVar [[vr.InstancedStereo:1]]
+Setting CVar [[r.MobileHDR:0]]
+Setting CVar [[vr.MobileMultiView:1]]
+Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+Setting CVar [[vr.RoundRobinOcclusion:0]]
+Setting CVar [[vr.ODSCapture:0]]
+Setting CVar [[r.MeshStreaming:0]]
+Setting CVar [[r.WireframeCullThreshold:5.000000]]
+Setting CVar [[r.RayTracing:0]]
+Setting CVar [[r.RayTracing.UseTextureLod:0]]
+Setting CVar [[r.SupportStationarySkylight:1]]
+Setting CVar [[r.SupportLowQualityLightmaps:1]]
+Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+Setting CVar [[r.SupportAtmosphericFog:1]]
+Setting CVar [[r.SupportSkyAtmosphere:1]]
+Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+Setting CVar [[r.SkinCache.CompileShaders:0]]
+Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+Setting CVar [[r.MobileNumDynamicPointLights:4]]
+Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+Setting CVar [[r.SupportReversedIndexBuffers:1]]
+Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+Setting CVar [[r.Mobile.SupportGPUScene:1]]
+Setting CVar [[r.DynamicGlobalIlluminationMethod:1]]
+Setting CVar [[r.ReflectionMethod:1]]
+Setting CVar [[r.Shadow.Virtual.Enable:1]]
+Setting CVar [[r.Lumen.TraceMeshSDFs:0]]
+Setting CVar [[r.UsePreExposure:1]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:0]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[fx.Niagara.QualityLevel:3]]
+Setting CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+Setting CVar [[r.Lumen.Reflections.Allow:1]]
+Setting CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+Setting CVar [[r.Lumen.Radiosity:1]]
+Setting CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+Setting CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+Setting CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+Setting CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+Setting CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+Selected Device Profile: [WindowsEditor]
+Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+Platform has ~ 16 GB [17052000256 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:0]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[fx.Niagara.QualityLevel:3]]
+Setting CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+Setting CVar [[r.Lumen.Reflections.Allow:1]]
+Setting CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+Setting CVar [[r.Lumen.Radiosity:1]]
+Setting CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+Setting CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+Setting CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+Setting CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+Setting CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Computer: LAPTOP-5G0ILNGU
+User: damon
+CPU Page size=4096, Cores=6
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=15.9GB (16GB approx)
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 185.54 MB used, 185.54 MB peak
+Process Virtual Memory: 170.45 MB used, 170.45 MB peak
+Physical Memory: 5822.54 MB used,  10439.52 MB free, 16262.05 MB total
+Virtual Memory: 8283.20 MB used,  11562.86 MB free, 19846.05 MB total
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: Chaos
+Using OS detected language (en-US).
+Using OS detected locale (nl-NL).
+No specific localization for 'en-US' exists, so the 'en' localization will be used.
+Setting process to per monitor DPI aware
+IME system deactivated.
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+Failed to initialize OpenVR with code 108
+D3D11 min allowed feature level: 11_0
+D3D11 max allowed feature level: 11_1
+D3D11 adapters:
+   0. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (Feature Level 11_1)
+      8031/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+   1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+      0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+Chosen D3D11 Adapter: 0
+Creating new Direct3DDevice
+    GPU DeviceId: 0x1f50 (for the marketing name, search the web for "GPU Device Id")
+EnumDisplayDevices:
+   0. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:1 D:1)
+   1. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+   2. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+   3. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+DebugString: FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+  Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+     Driver Date: 2-10-2022
+Texture pool is 5621 MB (70% of 8031 MB)
+RHI has support for 64 bit atomics
+Async texture creation enabled
+Array index from any shader is supported
+GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+GeForceNow SDK initialized: 1
+Running Turnkey SDK detection: ' -ScriptsForProject="D:/MA/Bewijzenmap leerjaar 2/Periode 3/BO/C11.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/TurnkeyReport_0.log" -log="D:/MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/TurnkeyLog_0.log" -project="D:/MA/Bewijzenmap leerjaar 2/Periode 3/BO/C11.uproject"  -platform=all'
+Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0EA/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/MA/Bewijzenmap leerjaar 2/Periode 3/BO/C11.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/TurnkeyReport_0.log" -log="D:/MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/TurnkeyLog_0.log" -project="D:/MA/Bewijzenmap leerjaar 2/Periode 3/BO/C11.uproject"  -platform=all" ]
+Blocking on platform ini files took 0.00 seconds
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxAArch64'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacEditor'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For WindowsEditor
+Lib vorbis DLL was dynamically loaded.
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Compiling shader autogen file: ../../../../MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Failed to delete old shader autogen file: ../../../../MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Shader autogen file written: ../../../../MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Max Cache Size: 512 MB
+Loaded boot cache 0.11s 120MB C:/Users/damon/AppData/Local/UnrealEngine/5.0/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/damon/AppData/Local/UnrealEngine/5.0/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../MA/Bewijzenmap leerjaar 2/Periode 3/BO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../MA/Bewijzenmap leerjaar 2/Periode 3/BO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/damon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+Performance to C:/Users/damon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.38ms. RandomReadSpeed=57.92MBs, RandomWriteSpeed=90.26MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/damon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+Guid format shader working directory is -5 characters bigger than the processId version (../../../../MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/Shaders/WorkingDirectory/17904/).
+Cleaned the shader compiler working directory 'C:/Users/damon/AppData/Local/Temp/UnrealShaderWorkingDir/7D656A8249E4629C8D2B73B1827168EB/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Completed SDK detection: ExitCode = 0
+Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1299.0, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v17_clang-10.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: LinuxAArch64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v17_clang-10.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FAssetRegistry took 0.1139 seconds to start up
+Selected Device Profile: [WindowsEditor]
+Active device profile: [00000456A6026A80][00000456A62C5000 49] WindowsEditor
+Profiles: [00000456A6026600][00000456A62C7800 49] Windows, [00000456A6026A80][00000456A62C5000 49] WindowsEditor, [00000456A6026C00][00000456A62CA000 49] WindowsServer, [00000456A6025B80][00000456A62CC800 49] WindowsClient, [00000456A6023A80][000004567BA8A000 49] IOS, [00000456A6023F00][00000456A6340000 49] iPadAir, [00000456A6025880][00000456A6347800 49] iPadAir2, [00000456A6025A00][00000456A62C0000 49] IPadPro, [00000456A6025280][00000456A62C2800 49] iPadAir3, [00000456A6025580][00000456A634A000 49] iPadAir4, [00000456A6024980][00000456A634C800 49] iPadMini2, [00000456A6026D80][00000456A6360000 49] iPadMini3, [00000456A6024E00][00000456A6367800 49] iPadMini4, [00000456A6026480][00000456A636A000 49] iPadMini5, [00000456A6028400][00000456A6345000 49] iPhone6, [00000456A6028280][00000456A6342800 49] iPodTouch6, [00000456A6024080][00000456A6382800 49] iPhone7, [00000456A6023D80][00000456A6380000 49] iPodTouch7, [00000456A6024800][00000456A638A000 49] iPhone5S, [00000456A6027E00][00000456A638C800 49] iPhone6Plus, [00000456A6026180][00000456A6365000 49] iPhone6S, [00000456A6026780][00000456A6385000 49] iPhone6SPlus, [00000456A6024B00][00000456A636C800 49] iPhone7Plus, [00000456A6027680][00000456A6370000 49] iPhoneSE, [00000456A6028100][00000456A6377800 49] iPhone8, [00000456A6025E80][00000456A637A000 49] iPhone8Plus, [00000456A6024380][00000456A637C800 49] iPhoneX, [00000456A6027200][00000456A6362800 49] iPhoneXS, [00000456A6027500][00000456A6372800 49] iPhoneXSMax, [00000456A6026300][00000456A6390000 49] iPhoneXR, [00000456A6027F80][00000456A6397800 49] iPhone11, [00000456A6025D00][00000456A639A000 49] iPhone11Pro, [00000456A6024F80][00000456A639C800 49] iPhone11ProMax, [00000456A6028880][00000456A6375000 49] iPhoneSE2, [00000456A6026000][00000456A6392800 49] iPhone12Mini, [00000456A6029180][00000456A63A0000 49] iPhone12, [00000456A6025700][00000456A63A7800 49] iPhone12Pro, [00000456A6027B00][00000456A63AA000 49] iPhone12ProMax, [00000456A6028B80][00000456A63AC800 49] iPadPro105, [00000456A6027C80][00000456A6395000 49] iPadPro129, [00000456A6027800][00000456A63A2800 49] iPadPro97, [00000456A6028D00][00000456A63B0000 49] iPadPro2_129, [00000456A6026900][00000456A63B7800 49] iPad5, [00000456A6029780][00000456A63BA000 49] iPad6, [00000456A6027080][00000456A63BC800 49] iPad7, [00000456A602A080][00000456A63A5000 49] iPad8, [00000456A6028580][00000456A63B2800 49] iPadPro11, [00000456A6024C80][00000456A63C0000 49] iPadPro2_11, [00000456A6029F00][00000456A63C7800 49] iPadPro3_129, [00000456A6026F00][00000456A63CA000 49] iPadPro4_129, [00000456A602A380][00000456A63CC800 49] AppleTV, [00000456A6029900][00000456A63B5000 49] AppleTV4K, [00000456A6028E80][00000456A63C2800 49] TVOS, [00000456A602BE80][00000456A63D5000 49] Mac, [00000456A602C000][00000456A63D2800 49] MacEditor, [00000456A602BB80][00000456A63DA000 49] MacClient, [00000456A6029480][00000456A63DC800 49] MacServer, [00000456A602B700][00000456A6400000 49] Linux, [00000456A602B580][00000456A6402800 49] LinuxEditor, [00000456A6025400][00000456A640A000 49] LinuxAArch64, [00000456A6027980][00000456A640C800 49] LinuxClient, [00000456A6025100][00000456A63C5000 49] LinuxAArch64Client, [00000456A6029600][00000456A63D7800 49] LinuxServer, [00000456A602A500][00000456A6407800 49] LinuxAArch64Server, [00000456A602AB00][00000456A63D0000 49] Android, [00000456A6029A80][00000456A63E0000 49] Android_Low, [00000456A602AF80][00000456A63E7800 49] Android_Mid, [00000456A6029000][00000456A63EA000 49] Android_High, [00000456A602A800][00000456A63EC800 49] Android_Default, [00000456A602A680][00000456A6405000 49] Android_Adreno4xx, [00000456A6028700][00000456A63E2800 49] Android_Adreno5xx_Low, [00000456A602B880][00000456A63F0000 49] Android_Adreno5xx, [00000456A602AC80][00000456A63F7800 49] Android_Adreno6xx, [00000456A602A200][00000456A63FA000 49] Android_Adreno6xx_Vulkan, [00000456A602C480][00000456A63FC800 49] Android_Mali_T6xx, [00000456A602C180][00000456A63E5000 49] Android_Mali_T7xx, [00000456A602CD80][00000456A63F2800 49] Android_Mali_T8xx, [00000456A602BA00][00000456A6410000 49] Android_Mali_G71, [00000456A602B280][00000456A6417800 49] Android_Mali_G72, [00000456A602C780][00000456A641A000 49] Android_Mali_G72_Vulkan, [00000456A6029D80][00000456A641C800 49] Android_Mali_G76, [00000456A602AE00][00000456A63F5000 49] Android_Mali_G76_Vulkan, [00000456A602C900][00000456A6412800 49] Android_Mali_G77, [00000456A602A980][00000456A6420000 49] Android_Mali_G77_Vulkan, [00000456A602D380][00000456A6427800 49] Android_Vulkan_SM5, [00000456A602BD00][00000456A642A000 49] Android_PowerVR_G6xxx, [00000456A602DC80][00000456A642C800 49] Android_PowerVR_GT7xxx, [00000456A6028A00][00000456A6415000 49] Android_PowerVR_GE8xxx, [00000456A602B400][00000456A6422800 49] Android_PowerVR_GM9xxx, [00000456A602D680][00000456A6430000 49] Android_PowerVR_GM9xxx_Vulkan, [00000456A602CC00][00000456A6437800 49] Android_TegraK1, [00000456A602D080][00000456A643A000 49] Android_Unknown_Vulkan, [00000456A602D800][00000456A643C800 49] Lumin, [00000456A602CF00][00000456A6425000 49] Lumin_Desktop, [00000456A602E280][00000456A6432800 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6608013D17692CEBF07D0CD73A160102B15E1A2D), compiling. Is special engine material.
+Failed to open file for write ../../../../MA/Bewijzenmap leerjaar 2/Periode 3/BO/Intermediate/CachedAssetRegistry.bin.tmp
+20 Shader compiler errors compiling WorldGridMaterial for platform PCD3D_SM5:
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FTranslucentLightingInjectPS, Permutation 31, VF None:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/TranslucentLightInjectionShaders.usf: 11:    	#include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/TranslucentLightInjectionShaders.usf(): Shader FTranslucentLightingInjectPS, Permutation 31, VF None:
+	1 error in preprocessor.
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FVelocityPS, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/VelocityShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader TDepthOnlyVS<false>, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/DepthOnlyVertexShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/ShadowDepthVertexShader.usf: 35:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FDebugViewModeVS, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/DebugViewModeVertexShader.usf: 28:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FLODColorationPS, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/ViewMode/LODColorationPixelShader.usf: 23:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader TBasePassVSFNoLightMapPolicy, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/BasePassVertexCommon.ush: 15:    #include "/Engine/Generated/Material.ush"
+    from /Engine/Private/BasePassVertexShader.usf: 7:    #include "BasePassVertexCommon.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader TShadowDepthPSPixelShadowDepth_OnePassPointLight, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/ShadowDepthPixelShader.usf: 34:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader TLightMapDensityPSFNoLightMapPolicy, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/LightMapDensityShader.usf: 10:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FRequiredTextureResolutionPS, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/RequiredTextureResolutionPixelShader.usf: 70:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader TBasePassPSFCachedPointIndirectLightingPolicy, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/BasePassPixelShader.usf: 40:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/BasePassPixelShader.usf(58): Shader TBasePassPSFCachedPointIndirectLightingPolicy, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/BasePassPixelShader.usf(): Shader TBasePassPSFCachedPointIndirectLightingPolicy, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	2 errors in preprocessor.
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FHitProxyVS, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/HitProxyVertexShader.usf: 11:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FHitProxyPS, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/HitProxyPixelShader.usf: 11:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FMaterialTexCoordScalePS, Permutation 0, VF TGPUSkinMorphVertexFactoryDefault:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/MaterialTexCoordScalesPixelShader.usf: 98:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FLandscapePhysicalMaterialVS, Permutation 0, VF FLandscapeFixedGridVertexFactory:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/LandscapePhysicalMaterial.usf: 8:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader FLandscapeGrassWeightPS, Permutation 0, VF FLandscapeFixedGridVertexFactory:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/LandscapeGrassWeight.usf: 4:    #include "/Engine/Generated/Material.ush"
+
+D:/UE_5.0EA/Engine/Shaders/Private/DeferredShadingCommon.ush(481): Shader TDepthOnlyVS<true>, Permutation 0, VF FGeometryCacheVertexVertexFactory:
+	error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/PositionOnlyDepthVertexShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/TranslucentLightInjectionShaders.usf: 11:    	#include "/Engine/Generated/Material.ush"
+	1 error in preprocessor.
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/VelocityShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/DepthOnlyVertexShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/ShadowDepthVertexShader.usf: 35:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/DebugViewModeVertexShader.usf: 28:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/ViewMode/LODColorationPixelShader.usf: 23:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/BasePassVertexCommon.ush: 15:    #include "/Engine/Generated/Material.ush"
+    from /Engine/Private/BasePassVertexShader.usf: 7:    #include "BasePassVertexCommon.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/ShadowDepthPixelShader.usf: 34:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/LightMapDensityShader.usf: 10:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/RequiredTextureResolutionPixelShader.usf: 70:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/BasePassPixelShader.usf: 40:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/BasePassPixelShader.usf(58): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+	2 errors in preprocessor.
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/HitProxyVertexShader.usf: 11:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/HitProxyPixelShader.usf: 11:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/MaterialTexCoordScalesPixelShader.usf: 98:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/LandscapePhysicalMaterial.usf: 8:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/LandscapeGrassWeight.usf: 4:    #include "/Engine/Generated/Material.ush"
+	/Engine/Private/DeferredShadingCommon.ush(481): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 7:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Generated/Material.ush: 25:    #include "/Engine/Private/Strata/Strata.ush"
+    from /Engine/Private/PositionOnlyDepthVertexShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+Windows GetLastError: The operation completed successfully. (0)
