@@ -57,6 +57,7 @@ FGBufferData  DecodeGBufferDataDirect(float4 InMRT1,
 	float4 InMRT3,
 	float4 InMRT4,
 	float4 InMRT5,
+		 
 	float CustomNativeDepth,
 	float4 AnisotropicData,
 	uint CustomStencil,
@@ -125,6 +126,7 @@ FGBufferData DecodeGBufferDataUV(float2 UV, bool bGetNormalizedNormal = true)
 		InMRT3,
 		InMRT4,
 		InMRT5,
+		 
 		CustomNativeDepth,
 		AnisotropicData,
 		CustomStencil,
@@ -155,6 +157,7 @@ FGBufferData DecodeGBufferDataUint(uint2 PixelPos, bool bGetNormalizedNormal = t
 		InMRT3,
 		InMRT4,
 		InMRT5,
+		 
 		CustomNativeDepth,
 		AnisotropicData,
 		CustomStencil,
@@ -186,6 +189,7 @@ FGBufferData DecodeGBufferDataSceneTextures(float2 UV, bool bGetNormalizedNormal
 		InMRT3,
 		InMRT4,
 		InMRT5,
+		 
 		CustomNativeDepth,
 		AnisotropicData,
 		CustomStencil,
@@ -217,6 +221,7 @@ FGBufferData DecodeGBufferDataSceneTexturesLoad(uint2 PixelCoord, bool bGetNorma
 		InMRT3,
 		InMRT4,
 		InMRT5,
+		 
 		CustomNativeDepth,
 		AnisotropicData,
 		CustomStencil,
