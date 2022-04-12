@@ -9,7 +9,7 @@ Damon Jellema, Leon Boussen, Aidan middel
 Voor het project Input en Output moesten we een programma maken met een speciale input en/of output.
 Dat project moest in groepjes van 2 maar omdat ons idee zo groot was kregen we toestemming om het
 met zijn drieen te maken.
-=======
+======= 
 
 ## Het idee
 Het idee was om een vr horror game te maken in een verlaten bunker/lab met zombies 
