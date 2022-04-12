@@ -17,13 +17,37 @@ die je kunnen horen. Dat gingen we doen met de input van je microfoon. Ook ginge
  in de controllers doen als je werd geraakt.
 =======
 
-## link naar project documentatie: https://github.com/Damon-Jay/Documentatie_BO/tree/master
+### Wat heb je allemaal nodig?
 
-1ste playtest waar we de ai veels te agresief hadden ingesteld:
+* We hebben unreal engine nodig, een vr headset naar keuze, een telefoon of controller. we moeten wel tutorials gebruiken omdat we niet ervaren zijn in unreal.
+
+=======
+
+### Wat is het lastigste onderdeel van het project?
+
+* De microfoon input en dat de enemy AI's dat horen want we hebben die kennis nog niet maar dat willen we dit project leren. dit gaat ongeveer 2 weken duren omdat we hebben geen kennis dus dit is ook een groffe schating.
+1 week veel tutorials kijken en mee programmeren en 2de week hebben we die kennis en gaat het allemaal wat sneller.
+
+=======
+
+### Waarom werken we in unreal engine?
+
+* Unreal engine is een krachtigere engine. ook is het makkelijker om ai's te maken omdat unreal een behavior tree heeft. unity heeft ook behavior trees maar die hebben minder mogelijkheden.
+ook is het makkelijker met de inputs want unreal detecteerd welke headset je gebruikt.
+
+=======
+
+### Waarom gebruiken wij een Oculus Quest 2?
+
+Omdat we deze door school aan ons beschikbaar is gesteld.
+
+=======
+
+### 1ste playtest waar we de ai veels te agresief hadden ingesteld:
 
 https://user-images.githubusercontent.com/70641287/162748971-368c9579-462d-42bc-8078-34c2269fa0b5.mp4
 
 
-2de playtest waar we de AI hadden bijgesteld:
+### 2de playtest waar we de AI hadden bijgesteld:
 
 https://user-images.githubusercontent.com/70641287/162749313-71c1db54-80a7-48ab-b9b8-713fd41f9f71.mp4
