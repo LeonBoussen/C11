@@ -51,3 +51,11 @@ https://user-images.githubusercontent.com/70641287/162748971-368c9579-462d-42bc-
 ### 2de playtest waar we de AI hadden bijgesteld:
 
 https://user-images.githubusercontent.com/70641287/162749313-71c1db54-80a7-48ab-b9b8-713fd41f9f71.mp4
+
+## 3de playtest met iemand die nog nooit met VR had gewerkt:
+
+https://user-images.githubusercontent.com/70641287/163273694-e3140f3c-f832-4aec-9da0-bf3a964464cd.mp4
+
+## 4de playtest door iemand die klein beetje het concept heeft gehoord:
+
+https://user-images.githubusercontent.com/70641287/163274265-cf5c257b-b66d-4f6a-a689-1cffb560d4c3.mp4
