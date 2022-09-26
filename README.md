@@ -19,7 +19,7 @@ die je kunnen horen. Dat gingen we doen met de input van je microfoon. Ook ginge
 
 ### Wat heb je allemaal nodig?
 
-* We hebben unreal engine nodig, een vr headset naar keuze, een telefoon of controller. we moeten wel tutorials gebruiken omdat we niet ervaren zijn in unreal.
+* We hebben unreal engine nodig, een vr headset naar keuze, een telefoon of controller. we moeten wel tutorials gebruiken omdat sommige devs niet ervaren zijn in unreal.
 
 =======
 
